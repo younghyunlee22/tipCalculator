@@ -16,3 +16,7 @@ Grading Criteria:
 - Correct functionality of the form (accepts input and displays the recommended tip)
 - Effective use of CSS to enhance the visual appeal of the form
 Correct integration of the provided JavaScript code with the updated HTML design.
+
+Work submitted:
+
+<img width="493" alt="tipCalculator_preview" src="https://github.com/younghyunlee22/tipCalculator/assets/115119107/da01681d-20e0-4f0b-b62f-4740a047d9c0">
