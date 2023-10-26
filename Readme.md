@@ -19,4 +19,6 @@ Correct integration of the provided JavaScript code with the updated HTML design
 
 Work submitted:
 
-<img width="493" alt="tipCalculator_preview" src="https://github.com/younghyunlee22/tipCalculator/assets/115119107/da01681d-20e0-4f0b-b62f-4740a047d9c0">
+![tipCalculatorGif](https://github.com/younghyunlee22/tipCalculator/assets/115119107/6ddfcb57-8ed2-4735-ba89-2224a4a6c571)
+
+<img width="476" alt="tipCalculator_preview" src="https://github.com/younghyunlee22/tipCalculator/assets/115119107/da01681d-20e0-4f0b-b62f-4740a047d9c0">
