@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+  background-color: F5F8D7;
+  padding: 10px;
+  margin: 10px;
+}
+
+main {
+  padding: 15px 10px;
+}
+
+input[type=number] {
+    width: 200px;
+    height: 32px;
+    font-size: 15px;
+    border: 0;
+    border-radius: 15px;
+    outline: none;
+    padding-left: 10px;
+    background-color: rgb(233, 233, 233);
+}
+
+.click {
+  background-color: aliceblue;
+  border: none;
+  color: #1e6b7b;
+  font-size: 15px;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #50901B;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 50px;
+  text-align: center;
+}
